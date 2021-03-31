@@ -1,0 +1,27 @@
+i 1
+w
+pin
+i 3
+w
+pin
+i 8
+w
+pin
+i 2
+w
+pin
+i 5
+w
+pin
+i 20
+w
+pin
+i 0
+w
+pin
+lca 2 20
+lca 1 8
+lca 15 8
+lca 8 15
+
+
